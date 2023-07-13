@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif; 
+	max-width: 600px; 
+	margin: 0 auto; 
+	padding: 0 8px;    
+}
+@media (prefers-color-scheme: dark) 
+{html { background: #1c1c1c; color: white; } a { color: #6bf; } a:visited { color: #f8f; } a:active { color: red; }
+
+
+#main img {
+    max-width:90%;
+    margin-left: 20px;
+    border: 1px solid #333333;
+}
+
+
+h1 {
+    color:#333333;
+}
+
+h2 {
+    color: #333333;
+}
+
+p {
+    margin-left: 20px;
+}
+
+/*code {
+    margin-left: 40px;
+}*/
+
+xmp {
+    margin-left: 100px;
+    font-size: 16px;
+    white-space:pre-line;
+}
+
+code {
+    background-color:#DDDDDD;
+    font-size:14px;}
